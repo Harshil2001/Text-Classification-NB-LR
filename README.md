@@ -19,6 +19,6 @@ Enter the representation: This can take only 2 values:
 	'bern' for Bernoulli representation
 Kindly input the 'bow' for MNB and 'bern' for DNB
 
-***
+*
 The other alternative is to 'not' run the 2nd last snippet and instead run the 'Last' snippet
 	This will output the metrics for all datasets, all algorithms, and using both the representations
